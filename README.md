@@ -1,4 +1,4 @@
-[![prasunsrivastava](https://circleci.com/gh/prasunsrivastava/ml-microservice-deployment.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![prasunsrivastava](https://circleci.com/gh/prasunsrivastava/ml-microservice-deployment.svg?style=svg)](https://circleci.com/gh/prasunsrivastava/ml-microservice-deployment)
 
 ## Project Overview
 
