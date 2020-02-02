@@ -10,11 +10,14 @@ setup:
 	# source ~/.devops/bin/activate
 	python3 -m venv ~/.devops
 	. ~/.devops/bin/activate
+	deactivate
 
 install:
 	# This should be run from inside a virtualenv
+	. ~/.devops/bin/activate
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
+  deactivate
 
 test:
 	# Additional, optional, tests could go here
