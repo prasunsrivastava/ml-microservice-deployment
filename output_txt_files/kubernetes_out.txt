@@ -1,0 +1,5 @@
+NAME                              READY   STATUS    RESTARTS   AGE
+udacity-devops-69ff4975bc-2nh2l   1/1     Running   0          10m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
