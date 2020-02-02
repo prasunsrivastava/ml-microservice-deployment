@@ -17,7 +17,7 @@ install:
 	. ~/.devops/bin/activate
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
-  deactivate
+	deactivate
 
 test:
 	# Additional, optional, tests could go here
